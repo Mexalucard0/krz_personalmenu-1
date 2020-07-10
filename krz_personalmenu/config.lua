@@ -13,7 +13,7 @@ local Keys = {
 Config = {}
 Config.Locale = 'en'
 
-Config.servername = "ITALIAN FULL RP" -- change it to you're server name
+Config.servername = "NOME DEL SERVER" -- change it to you're server name
 Config.doublejob = false -- enable if you're using esx double job
 Config.noclip_speed = 2.0 -- change it to change the speed in noclip
 
