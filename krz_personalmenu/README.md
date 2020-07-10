@@ -53,9 +53,7 @@ cd resources
 git clone https://github.com/Korioz/krz_personalmenu [plugins]/krz_personalmenu
 ```
 
-### Manually
-- Download https://github.com/Korioz/krz_personalmenu/releases/latest
-- Put it in the `resource/[plugins]` directory
+
 
 ## Installation
 - Configure your `server.cfg` to look like this
