@@ -1,4 +1,4 @@
-Locales['en'] = {
+Locales['it'] = {
 
   -- DialogBox Name
   ['dialogbox_playerid'] = '🆔~r~ID Giocatore:',
