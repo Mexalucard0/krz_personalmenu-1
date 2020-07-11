@@ -11,7 +11,7 @@
 
 ### Screenshot
 
-![screenshot](https://i.gyazo.com/54528fac5600f0b33194d0ad3aafa08b.png)
+![screenshot](https://i.imgur.com/iXYIivd.png)
 
 ### Features
 - Inventory UI
